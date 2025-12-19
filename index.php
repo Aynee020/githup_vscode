@@ -6,6 +6,8 @@
 </head>
 <body>
     <h2>สวัสดีค่ะ</h2>
+     <h2>สวัสดีค่ะ</h2>
+
 
     <?php
         $name = "Aineesaranya";
